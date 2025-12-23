@@ -1,4 +1,3 @@
-Here is ready‑to-paste content for the missing Quality Standards Checklist parts for your README, tailored to this task manager.
 
 Project Overview
 The Interactive Task Manager is a browser‑based web application that helps users capture, organize, and track daily tasks using a clean, responsive interface. Its main objectives are to practice core JavaScript fundamentals (DOM manipulation, events, array methods, and localStorage) and to provide a practical tool for managing tasks with filters, statistics, drag‑and‑drop ordering, and dark/light theme support.​
@@ -64,8 +63,7 @@ Drag and drop reordering:
 
 Dark theme:
 
-![Task Manager - Dark](screenshots/04-dark-theme.png)
-GitHub READMEs commonly use relative image paths like this to embed screenshots.​
+![Task Manager - Dark](screenshots/04-dark-theme.png)​
 
 Technical Details
 Architecture
