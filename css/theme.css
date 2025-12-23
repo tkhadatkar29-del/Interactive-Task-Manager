@@ -1,0 +1,17 @@
+body.dark-theme {
+  --bg: #020617;
+  --surface: #020617;
+  --text: #e5e7eb;
+  --muted: #9ca3af;
+  --border: #1f2937;
+  --shadow-soft: 0 10px 25px rgba(0, 0, 0, 0.7);
+}
+
+body.dark-theme .task-input-section,
+body.dark-theme .controls-section,
+body.dark-theme .task-list-section,
+body.dark-theme .stats-section,
+body.dark-theme .backup-section,
+body.dark-theme .app-header {
+  border: 1px solid var(--border);
+}
